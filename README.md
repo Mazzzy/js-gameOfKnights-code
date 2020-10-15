@@ -1,7 +1,7 @@
 # js-gameOkKnights-code
 Basic JS based code for 6 Knights battle game, who can attack each other in circular fashion and last survived wins.
 
-## Problem Statement
+## Problem Statement:
 * In the battle, there are 6 knights arrange in cyclic order, each knight have health of 100.
 * Each knight perform attack move on next knight between the range of 1 to 6 (just like dice of 1 to 6)
 * The attack value is any random number.
@@ -16,14 +16,14 @@ Basic JS based code for 6 Knights battle game, who can attack each other in circ
 * Open the console
 * See the logs, at last it shows the winner knight (number)
 
-### Console logs are added for
+## Console logs are added for:
 * Health Report for every operation
 * Attack power (random number)
 * Knight ?(number) to attack on knight ? (number)
 * Morgue room (hashmap kind for dead list of knights)
 * Winner number etc
 
-### Screenshot
+## Screenshot
 
 <p align="center">
   <img src="screenshots/landing-page.png" alt="app-landing page"/>
