@@ -26,6 +26,7 @@ Basic JS based code for 6 Knights battle game, who can attack each other in circ
 ## Screenshot
 
 <p align="center">
-  <img src="screenshots/app-landing-page.png" alt="app-landing page"/>
-  <br/>
+  <kbd>
+    <img src="screenshots/app-landing-page.png" alt="app-landing page"/>
+  </kbd>
 </p>
