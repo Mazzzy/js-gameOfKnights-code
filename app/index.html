@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  
+  <link rel="stylesheet" href="styles.css">
+  <script src="index.js"></script>
+  <title>Knights Game app</title>
+</head>
+
+<body>
+  <h1>6 Knights battle game</h1>
+  <h4>Problem Statement</h4>
+  <ul>
+      <li>In the battle, there are 6 knights arrange in cyclic order, each knight have health of 100.</li>
+      <li>Each knight perform attack move on next knight between the range of 1 to 6 (just like dice of 1 to 6)</li>
+      <li>The attack value is any random number.</li>
+      <li>On attack health gets subtracted (eg; 100-6)</li>
+      <li>If health of knight becomes 0 then out of the game, other continues battling.</li>
+      <li>Battle goes on until last knight left.</li>
+      <li>Need to find the winner out of the battle.</li>
+  </ul>
+  <h4>Hit the button to start Knight battle</h4>
+  <button id="start" onclick="knightBattle()">Start Knight Battle</button>
+  <h4>Go to console to see battle and winner</h4>
+</body>
+
+</html>

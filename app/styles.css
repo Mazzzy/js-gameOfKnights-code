@@ -1,0 +1,14 @@
+h4 {
+    color: #6b08c7;
+}
+button {
+    background-color: #e83c6c;
+    border: none;
+    border-radius: 0.3rem;
+    color: white;
+    padding: 0.7rem 1.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+  
